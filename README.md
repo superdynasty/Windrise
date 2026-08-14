@@ -1,6 +1,6 @@
 # 研究工作台 · Research Workbench
 
-[直接打开 WINDRISE 研究工作台](https://www.windriseresearch.com/)
+[直接打开 WINDRISE 研究工作台（最新版）](https://yuangzou.github.io/Daily-Workbench/)
 
 汇集日常研究成果的统一入口，静态门户（GitHub Pages 托管）。深色专业风、卡片网格、响应式。
 
